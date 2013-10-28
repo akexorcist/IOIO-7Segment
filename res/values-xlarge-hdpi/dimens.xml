@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="margin">7dp</dimen>
+    <dimen name="text_digit_size">70dp</dimen>
+    <dimen name="text_number_size">85dp</dimen>
+    <dimen name="text_title_size">62dp</dimen>
+</resources>

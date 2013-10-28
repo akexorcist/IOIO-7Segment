@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="margin">2dp</dimen>
+    <dimen name="text_digit_size">32dp</dimen>
+    <dimen name="text_number_size">40dp</dimen>
+    <dimen name="text_title_size">25dp</dimen>
+</resources>
